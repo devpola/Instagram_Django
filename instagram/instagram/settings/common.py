@@ -63,7 +63,7 @@ TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
         'DIRS': [
-            os.path.join(BASE_DIR, 'instagram', 'tamplates'),
+            os.path.join(BASE_DIR, 'instagram', 'templates'),
         ],
         'APP_DIRS': True,
         'OPTIONS': {
